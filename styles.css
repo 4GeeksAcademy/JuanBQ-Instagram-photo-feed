@@ -1,0 +1,42 @@
+body {
+    background: black;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-family: sans-serif;
+}
+
+header {
+    background: white;
+}
+
+h1 {
+    width: 600px;
+    margin: auto;
+}
+.secondbackground {
+    background: gainsboro;
+}
+
+h3 {
+    color:gray;
+    font-family: arial;
+}
+
+.main {
+    background:white !important;
+    width: 600px;
+    margin: auto;
+}
+
+img {
+    width: 600px;
+}
+
+.titlepost {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 600px;
+    height: 40px;
+    align-items: center;
+}
